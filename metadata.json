@@ -1,0 +1,8 @@
+{
+  "name": "Remix SDGlobal IT Support CRM",
+  "description": "Enterprise IT Support, Helpdesk, Asset, Budget, and SLA Management CRM for multi-location logistics operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
